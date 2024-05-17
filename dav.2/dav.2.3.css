@@ -1,0 +1,60 @@
+#fad  {
+    margin-left: 120px;
+  }     
+#div {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 2px;
+    width: 600px;
+    height: 600px;
+    text-align: justify;
+    margin-left: 100px;
+    font-style: normal;
+  }  
+#wer {
+      border: 5px dotted rgb(2, 249, 245);
+      margin-left: 5px  
+} 
+#tir{
+    border: 5px dashed rgb(2, 249, 245);
+    margin-left: 5px
+}
+#uwy{
+    border: 5px solid rgb(2, 249, 245);
+    margin-left: 5px
+}
+#dub{
+     border: 5px double rgba(2, 249, 245);
+     margin-left: 5px
+}
+#chag{
+      border: 5px groove rgb(2, 249, 245);
+      margin-left: 5px
+}
+#amo{
+    border: 5px ridge rgb(2, 249, 245);
+    margin-left: 5px
+}
+#ids{
+    border: 5px inset rgb(2, 249, 245);
+    margin-left: 5px
+}
+#asd{
+    border: 5px outset rgb(2, 249, 245);
+    margin-left: 5px
+}
+#qwe{
+    border: 5px none rgb(2, 249, 245);
+    margin-left: 5px
+}
+#zxc{
+    border: 5px hidden rgb(2, 249, 245);
+    margin-left: 5px
+}
+#qaz{
+    border-style: dotted dashed solid double;
+    border-color:rgb(2, 249, 245);
+    margin-left: 5px
+}
+#das{
+        margin-left: 100px;
+      }    

@@ -1,0 +1,46 @@
+#xazi  {
+    text-decoration: underline;
+    font-style: italic;
+    margin-left: 100px;
+  } 
+#fad  {
+    margin-left: 120px;
+  }
+#das  {
+    margin-left: 100px;
+  }  
+#div {
+    border: 1px solid rgb(201, 199, 199);
+    padding: 2px;
+    width: 600px;
+    height: 180px;
+    text-align: justify;
+    margin-left: 100px;
+    font-style: normal;
+  }
+#norma  {font-style:normal;}
+#italic {
+    font-style: italic;
+    font-size: 20px;} 
+#oblique {font-style: oblique;}    
+#dive { 
+  border: 1px solid rgb(0, 0, 0);
+  padding: 2px; 
+  background-color: rgb(250, 240, 205);
+  width: 600px;
+  height: 180px;
+  text-align:center;
+  margin-left: 100px;
+  font-style: normal;;
+}
+#er {font-size: 10px;}
+#diva {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 2px;
+  width: 600px;
+  height: 180px;
+  text-align:right;
+  margin-left: 100px;
+  font-style: normal;
+  color: rgb(251, 45, 45);
+}

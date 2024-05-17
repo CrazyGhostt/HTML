@@ -1,0 +1,45 @@
+#das  {
+    margin-left: 100px;
+  }  
+#div {
+    border: 1px solid rgb(201, 199, 199);
+    padding: 2px;
+    width: 600px;
+    height: 320px;
+    text-align: justify;
+    margin-left: 100px;
+    font-style: normal;
+  }
+#shua { text-align:center; }
+#marj { text-align: right; }
+#marcx { 
+    text-align: left;
+    border-bottom:6px solid red;
+    width:50% ;
+    
+}
+#marcx1{text-align: left;
+    border-bottom:6px solid rgb(3, 0, 173); 
+    width:50% ;
+    }
+ #di {
+        border: 1px solid rgb(201, 199, 199);
+        padding: 2px;
+        width: 600px;
+        height: 250px;
+        text-align: justify;
+        margin-left: 100px;
+        font-style: normal;}    
+#zeda{text-decoration: overline}  
+#sha{text-decoration: line-through;}  
+#qved{text-decoration: overline underline;}
+#ida{letter-spacing: 10px}
+#fas{text-indent: 20px;
+    letter-spacing: 5px}
+#fa {letter-spacing: 3px}
+#fad  {
+  margin-left: 200px;
+}  
+#das  {
+  margin-left: 100px;
+}     
