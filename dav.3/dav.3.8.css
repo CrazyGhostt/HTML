@@ -1,0 +1,71 @@
+.flex-container {
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(131, 133, 131);
+    margin-left: 300px;
+    line-height:130px;
+    width: 900px;
+    
+ }
+  
+  .flex-container > div {
+    border: 1px solid black;
+    background-color: #c70909;
+    width: 175px;
+    margin: 10px;
+    text-align: center;
+    line-height: 130px;
+    font-size: 30px;
+
+  }
+ #grad1 {
+
+    height: 150px;width: 200px;
+    background-color: rgb(154, 153, 153); 
+    background-image: linear-gradient(90deg, red , rgb(26, 103, 0), blue);
+  } 
+#grad2 {
+
+    height: 150px;width: 200px;
+    background-color: rgb(154, 153, 153); 
+    background-image: linear-gradient(180deg,blue, rgb(26, 103, 0), red);
+  }
+#grad3 {
+
+    height: 150px;
+    width: 200px;
+    background-color: rgb(154, 153, 153); 
+    background-image: linear-gradient(-45deg, red , rgb(26, 103, 0), blue);
+  }
+  #grad4 {
+
+    height: 150px;
+    width: 200px;
+    background-color: rgb(154, 153, 153); 
+    background-image: linear-gradient(-135deg,red 33%, green 18% , blue 66%);
+  } 
+  #grad5 {
+    height: 150px;
+    width: 200px;
+    background-color: red; 
+    background-image: radial-gradient(red ,green , blue );
+  } 
+  #grad6 {
+    height: 150px;
+    width: 200px;
+    background-color: red; 
+    background-image: radial-gradient(red 60%, green 5%, blue 35%);
+  }
+  #grad7 {
+    height: 150px;
+    width: 200px;
+    background-color: rgb(137, 122, 122); 
+    background-image: repeating-radial-gradient(red 50%,green 10%, blue 40%);
+  }
+  #grad8 {
+    height: 150px;
+    width: 200px;
+    background-color: red; 
+    background-image: radial-gradient(red 20%, green 20%, blue 20%);
+  } 
